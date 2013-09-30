@@ -1,0 +1,16 @@
+ros-hydro-husky-description (0.0.2-0quantal) quantal; urgency=high
+
+  * Renamed /models folder to /meshes to follow the convention of other gazebo simulation packages.
+  * Changed the base.urdf.xacro to use base_footprint as the parent frame. For some reason, the new Gazebo paints all parts the same color as base_link when base_link is the parent.
+
+ -- Mike Purvis <mpurvis@clearpathrobotics.com>  Mon, 30 Sep 2013 04:00:00 -0000
+
+ros-hydro-husky-description (0.0.1-0quantal) quantal; urgency=high
+
+  * Move to model-only launchfile.
+  * Catkinize package, add install targets.
+  * husky_description moved up to repository root.
+
+ -- Mike Purvis <mpurvis@clearpathrobotics.com>  Wed, 11 Sep 2013 04:00:00 -0000
+
+
