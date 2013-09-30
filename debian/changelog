@@ -1,9 +1,0 @@
-ros-hydro-husky-description (0.0.1-0quantal) quantal; urgency=high
-
-  * Move to model-only launchfile.
-  * Catkinize package, add install targets.
-  * husky_description moved up to repository root.
-
- -- Mike Purvis <mpurvis@clearpathrobotics.com>  Wed, 11 Sep 2013 04:00:00 -0000
-
-
