@@ -2,6 +2,11 @@
 Changelog for package husky_description
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.1.1 (2015-01-14)
+------------------
+* Remove multirobot changes, experiment later
+* Contributors: Paul Bovbel
+
 0.1.0 (2015-01-13)
 ------------------
 * Major refactor for indigo release:
