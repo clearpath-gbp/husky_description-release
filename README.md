@@ -1,3 +1,24 @@
+## husky_description (indigo) - 0.1.2-0
+
+The packages in the `husky_description` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --rosdistro indigo --track indigo husky_description` on `Fri, 30 Jan 2015 16:31:44 -0000`
+
+The `husky_description` package was released.
+
+Version of package(s) in repository `husky_description`:
+- upstream repository: https://github.com/husky/husky_description.git
+- release repository: https://github.com/clearpath-gbp/husky_description-release.git
+- rosdistro version: `0.1.1-0`
+- old version: `0.1.1-0`
+- new version: `0.1.2-0`
+
+Versions of tools used:
+- bloom version: `0.5.16`
+- catkin_pkg version: `0.2.6`
+- rosdep version: `0.11.0`
+- rosdistro version: `0.4.0`
+- vcstools version: `0.1.36`
+
+
 ## husky_description (indigo) - 0.1.1-0
 
 The packages in the `husky_description` repository were released into the `indigo` distro by running `/usr/bin/bloom-release husky_description --rosdistro indigo --track indigo` on `Wed, 14 Jan 2015 16:07:42 -0000`
